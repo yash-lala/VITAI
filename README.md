@@ -1,6 +1,6 @@
 # VITAI
 The perfect nutritionist + Personal assistant
-See code [here]([url](https://www.icloud.com/shortcuts/fccfedfb2e444df2bf48581ae321cfd8))
+See code ![here]([url](https://www.icloud.com/shortcuts/fccfedfb2e444df2bf48581ae321cfd8))
 
 VITAI has been designed intentionally to exist in the background without a traditioanl UI element.
 It seemlessly does it work in the background without interrupting your workflow and nudges you to live a healthy lifestyle by tailored meals, meditaions and workout plans.
