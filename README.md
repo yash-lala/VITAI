@@ -26,7 +26,7 @@ Integrated Calendar and Reminders: Diet and workout plans are automatically sync
 The end result is a holistic healthy living assistant that learns user habits and preferences to deliver the perfect customized plan to help them reach their wellness goals. The app simplifies nutrition and fitness so users can live their healthiest lives. 
 
 
-How we built it - We leveraged OpenAI's API and Apple's Shortcuts ecosystem to create a seamless workflow that works on "fuzzy json" principles - truly making our app dynamic and personalized to each user. The prompts fed to gpt4, give it the freedom to choose the type of events that should be recommended, it does this by simply reading the users note on what they like - if there are any accommodations that we should be aware of - it then generates a json which we consume through the API creating its suggestions into calendar events that the user can effortlessly follow. All of the user's data stays with them. Health has never been so accessible and so secure. 
+How we built it - We leveraged OpenAI's API and Apple's Shortcuts ecosystem to create a seamless workflow that works on "fuzzy json" principles - truly making our app dynamic and personalized to each user. The prompts fed to gpt4, give it the freedom to choose the type of events that should be recommended, it does this by simply reading the users note on what they like - if there are any accommodations that we should be aware of - it then generates a json which we consume through the API creating its suggestions into calendar events and notes history that the user can effortlessly follow. All of the user's data stays with them. Health has never been so accessible and so secure. 
 
 
 Challenges we ran into 
@@ -49,9 +49,19 @@ This project opened our eyes to the endless opportunities that interfacing with 
 We were exposed to  the inner workings of several multi-billion dollar industries like Wellness, Healthcare and Nutrition. We researched a great deal about “consumer willingness to pay” and debated on what it took to make a “sticky” application. The collective process of building a working prototype, brainstorming GTM strategies, creating financial projects and tying up several loose ends in between provided far more learning than any crash course or youtube tutorial could provide.
 While we did have our differences in thought, as every competent team does, we collectively fantasized over the enormous opportunity generative AI posed for our futures, and the world! Marc Andreessen was indeed right. Software is eating the world!
 
-What's next for VITAI - We will exapnd it capabilites to "seeing" and "sensing" with camera and 3rd party app integrations where it can do what in does best - in a multimodal form. 
+What's next for VITAI - We will exapnd it capabilites to "seeing" and "sensing" with camera and 3rd party app integrations where it can do what in does best - in a multimodal form.
+
 
 Built With
 ChatGPT, Shortcuts (Health, Calendar, Notes) 
- 
+
+ ![IMG_0882](https://github.com/yash-lala/VITAI/assets/25130775/52b58820-4141-4107-8b62-c9af33699558)
+![IMG_0881](https://github.com/yash-lala/VITAI/assets/25130775/37ef812e-c5e2-4f5e-87ae-422c318f1da5)
+![IMG_0880](https://github.com/yash-lala/VITAI/assets/25130775/28c1b380-345e-4f94-9c33-9186378f1f28)
+![IMG_0879](https://github.com/yash-lala/VITAI/assets/25130775/dfbb2aa4-1833-40e2-8003-b9cdd5c6695f)
+![IMG_0878](https://github.com/yash-lala/VITAI/assets/25130775/cb519fb9-8633-4836-9e91-fc5a18712925)
+![IMG_0877](https://github.com/yash-lala/VITAI/assets/25130775/5844e96b-117f-4aad-8e46-798702f4179b)
+![IMG_0876](https://github.com/yash-lala/VITAI/assets/25130775/e6aa9260-e22f-4ba2-9226-6b76e8e49445)
+
+
 
