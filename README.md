@@ -55,13 +55,13 @@ What's next for VITAI - We will exapnd it capabilites to "seeing" and "sensing" 
 Built With
 ChatGPT, Shortcuts (Health, Calendar, Notes) 
 
-![alt|500][IMG_0882](https://github.com/yash-lala/VITAI/assets/25130775/52b58820-4141-4107-8b62-c9af33699558)
-![alt|500][IMG_0881](https://github.com/yash-lala/VITAI/assets/25130775/37ef812e-c5e2-4f5e-87ae-422c318f1da5)
-![alt|500][IMG_0880](https://github.com/yash-lala/VITAI/assets/25130775/28c1b380-345e-4f94-9c33-9186378f1f28)
-![alt|500][IMG_0879](https://github.com/yash-lala/VITAI/assets/25130775/dfbb2aa4-1833-40e2-8003-b9cdd5c6695f)
-![alt|500][IMG_0878](https://github.com/yash-lala/VITAI/assets/25130775/cb519fb9-8633-4836-9e91-fc5a18712925)
-![alt|500][IMG_0877](https://github.com/yash-lala/VITAI/assets/25130775/5844e96b-117f-4aad-8e46-798702f4179b)
-![alt|500][IMG_0876](https://github.com/yash-lala/VITAI/assets/25130775/e6aa9260-e22f-4ba2-9226-6b76e8e49445)
+![IMG_0882](https://github.com/yash-lala/VITAI/assets/25130775/52b58820-4141-4107-8b62-c9af33699558)
+![IMG_0881](https://github.com/yash-lala/VITAI/assets/25130775/37ef812e-c5e2-4f5e-87ae-422c318f1da5)
+![IMG_0880](https://github.com/yash-lala/VITAI/assets/25130775/28c1b380-345e-4f94-9c33-9186378f1f28)
+![IMG_0879](https://github.com/yash-lala/VITAI/assets/25130775/dfbb2aa4-1833-40e2-8003-b9cdd5c6695f)
+![IMG_0878](https://github.com/yash-lala/VITAI/assets/25130775/cb519fb9-8633-4836-9e91-fc5a18712925)
+![IMG_0877](https://github.com/yash-lala/VITAI/assets/25130775/5844e96b-117f-4aad-8e46-798702f4179b)
+![IMG_0876](https://github.com/yash-lala/VITAI/assets/25130775/e6aa9260-e22f-4ba2-9226-6b76e8e49445)
 
 
 
